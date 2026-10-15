@@ -25,3 +25,18 @@ footer{text-align:center;color:#64748b;font-size:.85rem;padding:2rem 1rem;border
 .buy{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:.6rem 0 0;font-size:.9rem;color:var(--muted)}
 .buy a{display:inline-block;padding:.4rem .9rem;border-radius:999px;font-weight:600;text-decoration:none;font-size:.85rem}
 .buy .off{border:1px solid #cbd5e1;color:var(--ink)}.buy .amz{background:linear-gradient(90deg,#f59e0b,#f97316);color:#fff;box-shadow:0 2px 8px rgba(249,115,22,.3)}
+.dlbtn{display:inline-block;padding:.75rem 1.3rem;border-radius:999px;background:linear-gradient(90deg,#2563eb,#7c3aed);color:#fff!important;font-weight:700;text-decoration:none;box-shadow:0 4px 14px rgba(37,99,235,.35)}
+.tip{background:#f0f9ff;border-left:4px solid #38bdf8;padding:.6rem .9rem;border-radius:8px}.flag{background:#fffbeb;border-left:4px solid #f59e0b;padding:.7rem 1rem;border-radius:8px}
+.src{font-size:.85rem;color:var(--muted)}.ic{vertical-align:middle;margin-right:.5rem;background:linear-gradient(135deg,#dbeafe,#ede9fe);border-radius:12px;padding:6px}
+.more{font-size:.85rem;font-weight:600;margin-left:.6rem}ol li{margin:.3rem 0}.card h3{margin-top:.8rem}
+.hero.full{width:100vw;margin:-1.5rem calc(50% - 50vw) 0;border-radius:0}
+.hero.full img{height:clamp(520px,78vh,760px)}
+.hero.full .ov{background:linear-gradient(180deg,rgba(2,6,23,.35) 0%,rgba(2,6,23,.55) 45%,rgba(2,6,23,.92) 100%);align-items:center;text-align:center;justify-content:center;padding:clamp(1.2rem,5vw,4rem)}
+.hero.full h1{font-size:clamp(2.2rem,6.5vw,4.4rem);font-weight:800;letter-spacing:-.035em;max-width:900px;margin:.2em auto}
+.hero.full .sub{font-size:clamp(1rem,2.2vw,1.3rem);max-width:640px;margin:.4em auto 0}
+.eyebrow{display:inline-block;color:#c7d2fe!important;font-size:.8rem!important;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:.3rem .8rem;border:1px solid rgba(199,210,254,.4);border-radius:999px;background:rgba(255,255,255,.06)}
+.ctas{display:flex;flex-wrap:wrap;gap:.8rem;justify-content:center;margin-top:1.4rem}
+.btn.pri{background:linear-gradient(90deg,#2563eb,#7c3aed);color:#fff;box-shadow:0 8px 24px rgba(37,99,235,.45);margin:0}
+.btn.ghost{background:rgba(255,255,255,.12);color:#fff;border:1px solid rgba(255,255,255,.45);backdrop-filter:blur(6px);margin:0;box-shadow:none}
+.trust{margin-top:1.1rem!important;font-size:.95rem!important;color:#cbd5e1!important;letter-spacing:.02em}
+@media(max-width:560px){.ctas .btn{width:100%;text-align:center}.hero.full img{height:640px}}
