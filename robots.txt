@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kjt8bhsyh6-sketch.github.io/tesla-homekit-hub/sitemap.xml
