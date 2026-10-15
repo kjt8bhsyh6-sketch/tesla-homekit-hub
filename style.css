@@ -22,3 +22,6 @@ p{color:#334155}a{color:var(--brand)}
 h2 img{background:linear-gradient(135deg,#dbeafe,#ede9fe);border-radius:12px;padding:6px}
 footer{text-align:center;color:#64748b;font-size:.85rem;padding:2rem 1rem;border-top:1px solid #e2e8f0}
 .card.feat h2{margin-top:.2rem}.card h2 a{text-decoration:none}
+.buy{display:flex;flex-wrap:wrap;gap:.5rem;align-items:center;margin:.6rem 0 0;font-size:.9rem;color:var(--muted)}
+.buy a{display:inline-block;padding:.4rem .9rem;border-radius:999px;font-weight:600;text-decoration:none;font-size:.85rem}
+.buy .off{border:1px solid #cbd5e1;color:var(--ink)}.buy .amz{background:linear-gradient(90deg,#f59e0b,#f97316);color:#fff;box-shadow:0 2px 8px rgba(249,115,22,.3)}
