@@ -1,5 +1,9 @@
 # Daily changelog
 
+## 2026-10-16
+- New page: trending.html (5 ideas: Wall Connector Smart Charging, Powershare 3/Y, Wi-Fi precondition, rate-plan setup, Cybertruck+Powerwall backup). Nav + sitemap + What's new.
+- Lasting: Powershare Home Backup for Model 3/Y on guide-solar.html#powershare (plus Wall Connector Smart Charging #smart-charging); FAQ #powershare; Amazon Wall Connector / Universal / Deco mesh links verified.
+
 ## 2026-10-15
 - New: Shortcuts recipe 11 "Leave Work: Pre-Heat the House" (shortcuts.html#leave-work), with an r/HomeKit example.
 - New page: guide-solar.html (Charge on Solar, Storm Watch, Time-Based Control, Home Assistant). Examples from @mwt2008, @jasonacox_sam and r/TeslaSolar.
