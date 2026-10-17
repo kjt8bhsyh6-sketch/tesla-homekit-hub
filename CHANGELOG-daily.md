@@ -1,5 +1,8 @@
 # Daily changelog
 
+## 2026-10-17
+- Lasting: Wall Connector Wi-Fi reconnect steps on guide-charging.html#wall-connector-wifi (example from @mahkus, checked against Tesla support/commissioning docs) + FAQ #wall-connector-wifi; Trending Oct 17 batch (5 ideas); What's new + sitemap; Amazon Deco X55 / Wall Connector / Universal links verified.
+
 ## 2026-10-16
 - New page: trending.html (5 ideas: Wall Connector Smart Charging, Powershare 3/Y, Wi-Fi precondition, rate-plan setup, Cybertruck+Powerwall backup). Nav + sitemap + What's new.
 - Lasting: Powershare Home Backup for Model 3/Y on guide-solar.html#powershare (plus Wall Connector Smart Charging #smart-charging); FAQ #powershare; Amazon Wall Connector / Universal / Deco mesh links verified.
