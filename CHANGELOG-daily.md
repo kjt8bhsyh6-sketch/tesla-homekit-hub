@@ -1,5 +1,8 @@
 # Daily changelog
 
+## 2026-10-18
+- Lasting: Cabin Overheat Protection setup on guide-climate.html#cabin-overheat (examples from @primemans and @Eric_Smith08, checked against Tesla Owner's Manual + Summer Driving Tips) + FAQ #cabin-overheat; Trending Oct 18 batch (5 ideas: @davidsven, @primemans, @cubuffnSD, @mgirard/@marcod69420, @1280MHz); What's new + guides + sitemap; Amazon Wigoo roof sunshades B0FJQS496H / B0DYV6W5B5 verified; fixed mislabeled Echo Dot/Nest Hub ASINs on faq.html and guide-google.html.
+
 ## 2026-10-17
 - Lasting: Wall Connector Wi-Fi reconnect steps on guide-charging.html#wall-connector-wifi (example from @mahkus, checked against Tesla support/commissioning docs) + FAQ #wall-connector-wifi; Trending Oct 17 batch (5 ideas); What's new + sitemap; Amazon Deco X55 / Wall Connector / Universal links verified.
 
