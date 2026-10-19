@@ -1,5 +1,8 @@
 # Daily changelog
 
+## 2026-10-19
+- Lasting: Scheduled Precondition (formerly Scheduled Departure) on guide-climate.html#scheduled-precondition (examples from @Eric_Smith08 and @Heyabhi29, checked against Tesla Owner's Manual Scheduled Precondition and Charge + Winter Driving Tips) + FAQ #scheduled-precondition; Trending Oct 19 batch (4 ideas: @Eric_Smith08/@Heyabhi29, @haiway, @formelectric, @marcXXII); What's new + guides + sitemap; Amazon Wall Connector B0HK646J9B / Lectron 48A B0GVSFPHMG verified.
+
 ## 2026-10-18
 - Lasting: Cabin Overheat Protection setup on guide-climate.html#cabin-overheat (examples from @primemans and @Eric_Smith08, checked against Tesla Owner's Manual + Summer Driving Tips) + FAQ #cabin-overheat; Trending Oct 18 batch (5 ideas: @davidsven, @primemans, @cubuffnSD, @mgirard/@marcod69420, @1280MHz); What's new + guides + sitemap; Amazon Wigoo roof sunshades B0FJQS496H / B0DYV6W5B5 verified; fixed mislabeled Echo Dot/Nest Hub ASINs on faq.html and guide-google.html.
 
