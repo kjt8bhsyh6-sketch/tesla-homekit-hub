@@ -1,5 +1,8 @@
 # Daily changelog
 
+## 2026-10-20
+- Lasting: Sentry Mode at home (Exclude Home + HomeKit Secure Video driveway camera, Trick or Treat note) on guide-cameras.html#sentry-at-home (examples from @DJ_DSFU, @cdieckmannc and @IzharTesla, checked against Tesla Owner's Manual Sentry Mode + Apple Home security-camera guide + Not a Tesla App Halloween Mode) + FAQ #sentry-at-home; Storm Watch anchor + trigger details on guide-solar.html#storm-watch (Tesla Storm Watch support page); Trending Oct 20 batch (4 ideas: @teslaenergy/@jeremycancio, @alphafox/@XploreFutureX/@MissGossip, @DJ_DSFU/@IzharTesla, @GardenSnakess); What's new + guides + sitemap; Amazon Eve Outdoor Cam B09YYSF57V / Aqara G3 B09J2CP8YS / Apple TV 4K B0HMX69N2K verified (reused, no new ASINs).
+
 ## 2026-10-19
 - Lasting: Scheduled Precondition (formerly Scheduled Departure) on guide-climate.html#scheduled-precondition (examples from @Eric_Smith08 and @Heyabhi29, checked against Tesla Owner's Manual Scheduled Precondition and Charge + Winter Driving Tips) + FAQ #scheduled-precondition; Trending Oct 19 batch (4 ideas: @Eric_Smith08/@Heyabhi29, @haiway, @formelectric, @marcXXII); What's new + guides + sitemap; Amazon Wall Connector B0HK646J9B / Lectron 48A B0GVSFPHMG verified.
 
