@@ -1,5 +1,8 @@
 # Daily changelog
 
+## 2026-10-21
+- Lasting: Frozen charge cable (Inlet Heater / Charge Port Heater, Defrost Car, manual release, Precondition schedule, Siri/Action button "Thaw the car" shortcut) on guide-charging.html#frozen-charge-port (example from @liorsela, checked against Tesla Model 3/Y Cold Weather Best Practices + Cybertruck Charging Instructions + Apple Action button guide) + FAQ #frozen-charge-port; Trending Oct 21 batch (4 ideas: @liorsela, @TeslaHype/@JoshuaThePilot, @dino_vivo/@CallEllie2help, @DigitalAssetsUS/@alex_miller_ai); What's new + guides + sitemap; no new Amazon links (none truly fit).
+
 ## 2026-10-20
 - Lasting: Sentry Mode at home (Exclude Home + HomeKit Secure Video driveway camera, Trick or Treat note) on guide-cameras.html#sentry-at-home (examples from @DJ_DSFU, @cdieckmannc and @IzharTesla, checked against Tesla Owner's Manual Sentry Mode + Apple Home security-camera guide + Not a Tesla App Halloween Mode) + FAQ #sentry-at-home; Storm Watch anchor + trigger details on guide-solar.html#storm-watch (Tesla Storm Watch support page); Trending Oct 20 batch (4 ideas: @teslaenergy/@jeremycancio, @alphafox/@XploreFutureX/@MissGossip, @DJ_DSFU/@IzharTesla, @GardenSnakess); What's new + guides + sitemap; Amazon Eve Outdoor Cam B09YYSF57V / Aqara G3 B09J2CP8YS / Apple TV 4K B0HMX69N2K verified (reused, no new ASINs).
 
