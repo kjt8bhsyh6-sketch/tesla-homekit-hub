@@ -1,5 +1,8 @@
 # Daily changelog
 
+## 2026-10-23
+- Lasting: Tesla Dashcam save and backup (USB drive requirements + glovebox port, Format USB Drive, Auto/Manual/On Honk, save from Recents, TeslaCam/SavedClips, Tesla app Dashcam Viewer, encrypted clips via dashcam.tesla.com, clearing space, home camera backup) on guide-cameras.html#dashcam (example from @mattvanswol and @InsideEdition, checked against Tesla Owner's Manual Dashcam + USB Drive Requirements); Trending Oct 23 batch (4 ideas: @mattvanswol/@InsideEdition, @CajunCybertruck, @ivelini, @ceguzsal); guides + What's new + sitemap; new Amazon Samsung FIT Plus 256GB (B07D7Q41PM) and Eve Outdoor Cam verified loading; all changed pages 200 live.
+
 ## 2026-10-22
 - Lasting: Apple Watch as your Tesla key (requirements, install Tesla watch app, Set Up Watch Key, pairing fix, Walk-Away Door Lock + Exclude Home, Apple home key at the front door) on guide-locks.html#apple-watch-key (example from @IDC4GAS, checked against Tesla Apple Watch support page + Model Y manual Mobile App for Apple Watch / Keys / Walk-Away Door Lock + Tesla Vehicle Keys + Apple Watch app-install and home key guides) + FAQ #apple-watch-key; Trending Oct 22 batch (4 ideas: @IDC4GAS, @GVictoriaB/@JuniperDriver, @xenappblog, @ev_downunder); What's new + guides + sitemap; new Amazon Apple Watch SE 3 B0FQFNRH72 verified, Yale Assure 2 Touch B0CBN92MG7 reused.
 
